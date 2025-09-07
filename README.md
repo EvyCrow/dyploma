@@ -6,3 +6,4 @@ First part takes medical pictures with different body parts (mostly limbs, diabe
 Second part transforms .ply file from specific camera (intel realsense, if I recall correctly) into raw point cloud. It contains primitive UI to give user ability to manipulate "model" in viewport.
 
 This code is part of bigger system so it could look strange without context. Feel free to contact me if there are any further questions.
+There are a few example files: a few original photos, their .jsons and one .ply object I've been working with. It somehow breaks in viewport and I don't know how to fix it. If you use Open3D and not OpenGL, it shows completly fine.
